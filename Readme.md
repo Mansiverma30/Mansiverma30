@@ -1,43 +1,21 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+## Hi there! 👋
 
-###
+My name is Mansi Verma, and I am a Frontend Developer passionate about creating visually appealing and highly functional web applications. I would love to connect and collaborate!
 
-<p align="left">My name is Mansi Verma and I'm a Frontend Developer, from India.</p>
+## About Me
 
-###
+I am a frontend developer with a strong interest in creating user-friendly applications. Currently, I am exploring various technologies and enhancing my skills in JavaScript, React, and other frameworks. Based in India, I am excited to work on innovative projects!
 
-<h2 align="left">About me</h2>
+## Skills & Technologies
 
-###
+[![My Skills](https://skillicons.dev/icons?i=react,html,css,git,nodejs,tailwind&perline=8)](https://skillicons.dev)
 
-<p align="left">✨ Creating bugs since I first hit ‘Run’ on my code and realized bugs were my unofficial mentors. Every bug fixed feel like a mini victory!<br>📚 I'm currently learning how to make things look cool and work even cooler with clean, efficient code.<br>🎯 Goals: to build awesome projects, keep leveling up, and have fun while making it all work!<br>🎲 Fun fact: when I'm not coding, you’ll find me either watching cricket (big Virat Kohli fan) or trying to figure out how to make the perfect website design.</p>
+## Top Projects
 
-###
+[![**Portfolio**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=portfolio&theme=dark)](https://github.com/Mansiverma30/portfolio)
+[![**RoomVista**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=RoomVista&theme=dark)](https://github.com/Mansiverma30/RoomVista)
+[![**ConnectDash**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=ConnectDash&theme=dark)](https://github.com/Mansiverma30/ConnectDash)
 
-<h2 align="left">I code with</h2>
+## Connect with Me
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/electron/electron-original.svg" height="40" alt="electron logo"  />
-</div>
+<a href="https://www.instagram.com/mansiv30/" target="_blank" rel="noopener noreferrer"><Icon /> Instagram</a> | <a href="https://twitter.com/MansiVerma2901" target="_blank" rel="noopener noreferrer"><Icon /> Twitter</a> | <a href="https://www.linkedin.com/in/mansi-verma-213288278" target="_blank" rel="noopener noreferrer"><Icon /> Linkedin</a> | <a href="https://mansiverma-portfolio.netlify.app/" target="_blank" rel="noopener noreferrer"><Icon /> Portfolio</a>

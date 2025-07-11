@@ -15,6 +15,7 @@ I am a frontend developer with a strong interest in creating user-friendly appli
 [![**Portfolio**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=portfolio&theme=dark)](https://github.com/Mansiverma30/portfolio)
 [![**RoomVista**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=RoomVista&theme=dark)](https://github.com/Mansiverma30/RoomVista)
 [![**ConnectDash**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=ConnectDash&theme=dark)](https://github.com/Mansiverma30/ConnectDash)
+[![**CodeNest**](https://github-readme-stats.vercel.app/api/pin/?username=Mansiverma30&repo=codeNest&theme=dark)](https://github.com/Mansiverma30/codeNest)
 
 ## Connect with Me
 
